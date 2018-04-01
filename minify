@@ -1,0 +1,751 @@
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8">
+<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Digital Marketing Agency, Online Marketing Company India</title>
+<meta name="description" content="Brandconn Digital is a leading digital marketing company in India, specialising in digital strategy, SEO, ppc advertising, social media and online reputation management." />
+<meta name="keywords" content="digital marketing company, online marketing company, digital agency, seo agency, brandconn digital" />
+<meta name="msvalidate.01" content="CFF6CAB5BDE8AF46738FBA8F382A4889" />
+<meta name="p:domain_verify" content="46f71a0046bbb90be0291586e82bf58a"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@brandconndg"/>
+<meta name="twitter:creator" content="@brandconndg"/>
+<meta name="publisher" content="Brandconn Digital"/>
+<meta name="distribution" content="global">
+<link rel="alternate" href="http://www.brandconn.com/" hreflang="en-us"/>
+<link rel="alternate" hreflang="x-default" href="http://www.brandconn.com/" />
+<link rel="publisher" href="https://plus.google.com/+Brandconndigital/" />
+<link rel="icon" type="image/png" href="fevicon.png">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800|Varela' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="styles/screen.css">
+<link rel="stylesheet" href="styles/font-awesome.css">
+<link rel="stylesheet" href="styles/font-awesome.css">
+<link rel="stylesheet" href="fonts/Rockwell-Regular.css">
+<link rel="stylesheet" href="fonts/stylesheet.css">
+<link rel="canonical" href="http://www.brandconn.com/" />
+<script type="text/javascript" src="scripts/jquery-1.js"></script>
+<script src="scripts/components/require.js" data-main="scripts/options"></script>
+<script src="scripts/jquery.validate.js"></script>
+<link rel="stylesheet" href="styles/cmxform.css">
+
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script> 
+$(function(){
+  $("#header").load("header.html"); 
+  $("#footer").load("footer.html"); 
+});
+</script> 
+
+
+<script>
+	$.validator.setDefaults({
+		submitHandler: function() {
+			alert("submitted!");
+		}
+	});
+
+	$().ready(function() {
+		// validate the comment form when it is submitted
+		$( "#contactForm" ).validate({
+  rules: {
+	name: "required",  
+	email: {
+		required: true,
+		email: true
+		},
+	  
+    phone: {
+      required: true,
+      number: true
+    },
+	massage: "required"
+  }
+});
+
+	</script>
+
+
+<script>
+$(function() {
+$('a[href*=#]:not([href=#])').click(function() {
+	if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+		var target = $(this.hash);
+		target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+		if (target.length) {
+			$('html,body').animate({
+			scrollTop: target.offset().top
+			}, 1000);
+			return false;
+		}
+	}
+});
+});
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65642748-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Async Tracking Code Start -->
+<script data-cfasync='false' type='text/javascript'>
+var _wow = _wow || [];
+(function () {
+try{
+                _wow.push(['setClientId', '9dcea522-c248-4422-aa17-b5bf32eafcda']);
+                _wow.push(['enableDownloadTracking']);
+                _wow.push(['trackPageView']);
+                var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+                g.type = 'text/javascript'; g.defer = true; g.async = true;
+                g.src = '//t.wowanalytics.co.uk/Scripts/tracker.js';
+                s.parentNode.insertBefore(g, s);
+}catch(err){}})();
+</script>
+<!-- Async Tracking Code End -->
+
+</head>
+<body data-preloader="on">
+
+   
+
+<div id="home" data-smooth-scroll="on">
+  
+  <header class="main-header" data-sticky="true">
+    <section class="header-navbar bg-alpha top-border" data-menu-scroll="true">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-2 col-xs-4">
+            <figure class="identity"> <a href="index.html"> <img alt="Brandconn Logo" src="images/brand_logo-small.png"> </a> </figure>
+          </div>
+          <!-- /.col-2 -->
+          <div class="col-sm-10 col-xs-8">  <nav class="main-nav"> <a href="#" class="responsive-menu_1 align-right "><i class="icon-333 font-2x text-white"></i></a>
+              <ul class="inline-list align-right uppercase">
+                <li class="current"><a href="index.html">Home</a> </li>
+                <li><a href="company.html">Company</a></li>
+                <li><a href="services.html">Services</a>
+                <ul>
+                    <li><a href="digital-marketing.html">Digital strategy</a></li>
+                    <li><a href="seo-services.html">Search engine optimisation</a></li>
+                    <li><a href="ppc.html">Paid advertising</a></li>
+                    
+                    <li><a href="social-media.html">Social media</a></li>
+                    <li><a href="reputation-management.html">Online reputation management</a></li>
+                    <li><a href="content-marketing.html">Rich media content</a></li>
+                    
+                    <li><a href="conversion-optimisation.html">Conversion rate optimisation</a></li>
+                    <li><a href="responsive-websites.html">Responsive websites</a></li>
+                    <li><a href="outsourced-marketing.html">Outsourced Marketing</a></li>
+                </ul>
+                </li>
+                <li><a href="outsourcing-india.html">Outsourcing</a>
+                 <ul>
+                    <li><a href="hire-seo-experts.html">Seo experts</a></li>
+                    <li><a href="hire-ppc-experts.html">Paid search specialists </a></li>
+                    <li><a href="hire-content-writers.html">Content writers </a></li>
+                    
+                    <li><a href="hire-other-skill.html">Mixed skill set </a></li>
+                </ul>
+                </li>
+                <li><a href="case-studies.html">Work</a></li>
+                <li><a href="Job-openings.html">Career</a></li>
+                <li><a href="http://www.brandconn.com/blog/">Blog</a></li>
+                <li><a href="contact-us.html">Contact</a></li>
+              </ul>
+            </nav>
+            <!-- /.main-nav --> 
+          </div>
+          <!-- /.col-10 --> 
+        </div>
+        <!-- /.row --> 
+      </div>
+      <!-- /.container --> 
+    </section>
+    <!-- /.header-navbar --> 
+  </header>
+  <!-- /.main-header -->
+  
+  <section class="box bg-black inner-banner" data-box-img="images/banner/home_banner.jpg">
+    <div class="box-img_1"><span style="background-image: url(images/banner/home_banner.jpg); background-size: cover;"></span></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 ">
+          <div class="text-white home-text-area ">
+            
+            <h4 class="font-alpha no-margin uppercase">Connecting the dots<span> between you & your</span><span> customers</span></h4> 
+            
+            
+         <a href="contact-us.html" class="button-lg bg-alpha uppercase">Get in Touch</a> 
+            
+           <!-- <ul class="fancy-list home-ul">
+              <li>600+ projects executed<i class="icon-100 font--2x  text-white"></i></li>
+              <li>120+ happy clients <i class="icon-100 font--2x  text-white"></i></li>
+              <li>80+ staff<i class="icon-100 font--2x  text-white"></i></li>
+              
+              </ul>-->
+                   
+          </div>
+        </div>
+      </div>
+      <!-- /.row --> 
+    </div>
+    <!-- /.container --> 
+  </section>
+  
+  <section id="about" class="box">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="fancy-title text-center uppercase">
+            <h4 class="text-alpha">Brandconn Digital</h4>
+            <h1 class="text-grey text-air">Digital Marketing Specialists in India</h1>
+          </div>
+          <div class="space-1x"></div>
+        </div>
+      </div>
+      <!-- /.row -->
+      <div class="row">
+        <ul class="loop-features clean-list">
+          <li class="col-md-3 col-sm-6">
+            <div class="feature-item text-center">
+              <div class="featured-icon align-center">
+                <figure class="shape-square"> <a href="digital-marketing.html"><i class="icon-259 font-2x"></i></a> </figure>
+              </div>
+              <h6 class="uppercase"><a href="digital-marketing.html">Digital Strategy</a></h6>
+              <p>Get the best from your digital marketing spent. Let our digital marketing team put a roadmap for your business to grow.</p>
+              <hr class="hr-20 align-center">
+              <a href="digital-marketing.html" class="font-beta uppercase text-alpha">Learn more</a> </div>
+          </li>
+          <li class="col-md-3 col-sm-6">
+            <div class="feature-item text-center">
+              <div class="featured-icon align-center">
+                <figure class="shape-square"> <a href="seo-services.html"><i class="icon-125 font-2x"></i></a> </figure>
+              </div>
+              <h6 class="uppercase"><a href="seo-services.html">Search Engine Optimisation</a></h6>
+              <p>100% ethical, risk free SEO services from an experienced company that continuously invests in research and innovation</p>
+              <hr class="hr-20 align-center">
+              <a href="seo-services.html" class="font-beta uppercase text-alpha">Learn more</a> </div>
+          </li>
+          <li class="col-md-3 col-sm-6">
+            <div class="feature-item text-center">
+              <div class="featured-icon align-center">
+                <figure class="shape-square"> <a href="ppc.html"><i class="icon-176 font-2x"></i></a> </figure>
+              </div>
+              <h6 class="uppercase"><a href="ppc.html">Pay per click</a></h6>
+              <p>Our Pay Per Click management services are designed to deliver conversions. Get most out of Google, Bing or Facebook Advertising.</p>
+              <hr class="hr-20 align-center">
+              <a href="ppc.html" class="font-beta uppercase text-alpha">Learn more</a> </div>
+          </li>
+          <li class="col-md-3 col-sm-6">
+            <div class="feature-item text-center">
+              <div class="featured-icon align-center">
+                <figure class="shape-square"> <a href="reputation-management.html"><i class="icon-453 font-2x"></i></a> </figure>
+              </div>
+              <h6 class="uppercase"><a href="reputation-management.html">Reputation Management</a></h6>
+              <p>Bad reputation can happen to even good brands. We help you proactively monitor and reactively manage </p>
+              <hr class="hr-20 align-center">
+              <a href="reputation-management.html" class="font-beta uppercase text-alpha">Learn more</a> </div>
+          </li>
+        </ul>
+      </div>
+      <!-- /.row --> 
+    </div>
+    <!-- /.container --> 
+  </section>
+  <!-- /.box -->
+  <section class="box bg-black" data-box-img="images/goal-market.jpg">
+    <div class="box-img_1"><span style="background-image: url(images/goal-market.jpg);"></span></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="text-white fancy-title text-center ">
+            <h4 class="text-alpha uppercase marketing-goal-heading">What is your marketing goal?  </h4>
+            <h6 class="text-white text-air uppercase" style="margin-bottom:30px;">let us advise the best solution to your marketing problem</h6>
+           
+           
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+      
+      <div class="row">
+        <div class="col-md-6">
+          <figure class="text-center"> <img src="images/service/goal_image.png" data-src="images/service/goal_image.png" alt="SEO Goals"> </figure>
+        </div>
+        <div class="col-md-6">
+          <ul class="clean-list toggle-loop text-white">
+            <li>
+              <div class="toggle-item">
+                <input type="radio" name="toggle-loop" checked>
+                <h6 class="uppercase font-alpha bg-light-black"><i class="bg-white find-new-customer"></i> Find new customers</h6>
+                <div>
+                  <p>Our digital marketing expert team will work with you to identify which online marketing techniques will help your business gain more customers online through organic as well as paid methods. </p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="toggle-item">
+                <input type="radio" name="toggle-loop">
+                <h6 class="uppercase font-alpha bg-light-black"><i class="bg-white increase-brand-visibility"></i> Increase brand visibility</h6>
+                <div>
+                  <p> Be seen more often. Our brand visibility services will place your brand in front of the customers when they are looking to buy a product or service. Let us help them choose your brand over your competitors’.</p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="toggle-item">
+                <input type="radio" name="toggle-loop">
+                <h6 class="uppercase font-alpha bg-light-black"><i class="bg-white engage-my-customer"></i>  Engage my customers</h6>
+                <div>
+                  <p>Let our expert digital marketing team put a user engagement strategy that targets your customers at right time, right place with the right message. It is all about doing it right first time, everytime.</p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="toggle-item">
+                <input type="radio" name="toggle-loop">
+                <h6 class="uppercase font-alpha bg-light-black"><i class="bg-white reputation"></i>  Manage my brand reputation</h6>
+                <div>
+                  <p>Bad reputations can happen to even good brands. Let us discretely work with you to deal with the negative business reviews, sneaky competitors, disgruntled employees or sometimes a disheartened customer.</p>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <!-- /.row --> 
+    </div>
+    <!-- /.container --> 
+  </section>
+  <!-- /.box -->
+  <section id="services" class="box box-title">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="fancy-title text-center uppercase portfolio-bottom">
+            <h4 class="text-alpha">Portfolio</h4>
+            <h6 class="text-grey text-air">See the results from our 120+ Clients</h6>
+          </div>
+        </div>
+      </div>
+      <!-- /.row --> 
+    </div>
+    <!-- /.container --> 
+  </section>
+  <!-- /.box -->
+  
+  <section class="box box-no-bottom portfolio-box" data-box-img="images/service-we-offer.png">
+    <div class="box-img_1"><span style="background-image: url(images/service-we-offer.png); background-size: cover;"></span></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div id="big-tabs-nav" class="slide-navigation align-center">
+            <ul class="inline-list">
+              <li> <a href="#" class="bg-white industryanchor " data-target="prev"> <i class="icon-110"></i> </a> </li>
+              <li> <a href="#" class="bg-white industryanchor" data-target="next"> <i class="icon-111"></i> </a> </li>
+            </ul>
+          </div>
+          <div class="big-tabs" data-sudo-slider='{"slideCount":5, "moveCount":1, "customLink":"#big-tabs-nav a, .big-tabs li", "continuous":true}'>
+            <ul class="clean-list">
+              <li data-target="4">
+                <div class="tab-item uppercase text-center">
+                  <div class="shape-square bg-white"> <i class="res-icon font-6x"></i> </div>
+                  <h6 class="font-alpha"><small>responsive Websites</small></h6>
+                </div>
+              </li>
+              <li data-target="5">
+                <div class="tab-item uppercase text-center">
+                  <div class="shape-square bg-white"> <i class="ecommerce-seo-icon font-6x"></i> </div>
+                  <h6 class="font-alpha"><small>Ecommerce SEO</small></h6>
+                </div>
+              </li>
+              <li data-target="1" class="active-big-tab">
+                <div class="tab-item uppercase text-center">
+                  <div class="shape-square bg-white"> <i class="strategy-icon font-6x"></i> </div>
+                  <h6 class="font-alpha"><small>Digital Strategy</small></h6>
+                </div>
+              </li>
+              <li data-target="2">
+                <div class="tab-item uppercase text-center">
+                  <div class="shape-square bg-white"> <i class="reputation-icon font-6x"></i> </div>
+                  <h6 class="font-alpha"><small>Online Reputation</small></h6>
+                </div>
+              </li>
+              <li data-target="3">
+                <div class="tab-item uppercase text-center">
+                  <div class="shape-square bg-white"> <i class="international-seo-icon font-6x"></i> </div>
+                  <h6 class="font-alpha"><small>International SEO</small></h6>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div class="big-tabs-content" data-sudo-slider='{"customLink":"#big-tabs-nav a, .big-tabs li", "continuous":true}'>
+            <ul class="inline-list">
+              <li class="row">
+                <div class="col-md-5 text-white">
+                  <h4>5-STAR REVIEWS & RATINGS</h4>
+              
+                  <p>Managing digital campaign for an ultra-sensitive business for a niche target market where word of mouth matters the most, is one of the most challenging tasks, we ever handled. And the outcome is five star reviews and ratings for a five star service. Read success story of TheLensPal.</p>
+                  <hr class="hr-10">
+                  <a href="cs-thelenspal.html" class="uppercase read-more">Read more</a> </div>
+                <div class="col-md-7">
+                  <figure class="text-center no-margin"> <img src="images/service/thelenspal_potfolio_big_image.png" alt="The LensPal"> </figure>
+                </div>
+              </li>
+              <li class="row">
+                
+                <div class="col-md-5 text-white ">
+                  <h4 class="uppercase">Online Reputation Management</h4>
+              
+                  <p>Our team helped manage online reputation for one of the worlds’ largest gold refineries. The work involved was highly challenging as the negative comments and posts were listed on world’s leading publishers such as Forbes, Wall Street Journal etc.</p>
+                  <hr class="hr-10">
+                 <a href="cs-goldrefinery.html" class="uppercase read-more">Read more</a> </div>
+                  
+                  <div class="col-md-7">
+                  <figure class="text-center no-margin"> <img src="images/service/Gold_refine.png" alt="Gold Refinery"> </figure>
+                </div>
+              </li>
+              <li class="row">
+                <div class="col-md-5 text-white">
+                  <h4>#1 FOR HOLOGRAM MANUFACTURER</h4>
+                  
+                  <p>Our client (HOLOSTIK) is a leader in hologram manufacturing in India with over 50% market share of security holograms. We helped them retain the leading position on most competitive keywords such as “hologram manufacturers”, “hologram manufacturers in India” on Google local and international search engines.</p>
+                  <hr class="hr-10">
+                  <a href="cs-holostik.html" class="uppercase read-more">Read more</a> </div>
+                <div class="col-md-7">
+                  <figure class="text-center no-margin"> <img src="images/service/holostik.png" alt="Holostik"> </figure>
+                </div>
+              </li>
+              <li class="row">
+                <div class="col-md-5 text-white">
+                  <h4>RESPONSIVE WEBSITES</h4>
+                 
+                  <p>Due to our prior experience of working with Keller Williams’ and Weichert’s real estate agents, we exactly knew what will work and what will not. This helped us in framing a Community/ Regional specific digital marketing strategy for the client.</p>
+                  <hr class="hr-10">
+                  <a href="cs-netsale.html" class="uppercase read-more">Read more</a> </div>
+                <div class="col-md-7">
+                  <figure class="text-center no-margin"> <img src="images/service/netsale.png" alt="Netsale"> </figure>
+                </div>
+              </li>
+              <li class="row">
+                <div class="col-md-5 text-white">
+                  <h4>E-COMMERCE SALES BEYOND BOUNDARIES</h4>
+                 
+                  <p>It is not often that you hear a customer want to pause search marketing campaign as company can’t handle more sales. Yes that’s right, we helped Lorisgolf meet and exceed the sales target by double digits in different geographical markets.</p>
+                  <hr class="hr-10">
+                  <a href="cs-lorigolf.html" class="uppercase read-more">Read more</a> </div>
+                <div class="col-md-7">
+                  <figure class="text-center no-margin"> <img src="images/service/loris.png" alt="Loris Golf"> </figure>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- /.row --> 
+    </div>
+    <!-- /.container --> 
+  </section>
+  <!-- /.box -->
+  
+  
+
+  
+  <section class="box  sucess-stories">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 text-center"> <a href="case-studies.html" class="button-lg bg-alpha uppercase button-min-value">Read more success stories</a> </div>
+      </div>
+      <!-- /.row --> 
+    </div>
+    <!-- /.container --> 
+  </section>
+  <!-- /.box -->
+  
+  <section id="history" class="box box-buttons" data-box-img="images/blog-bg.jpg">
+    <div class="box-img_1"><span style="background-image: url(images/blog-bg.jpg);   background-size: cover;"></span></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="  fancy-title text-center uppercase latest-form-heading">
+            <h4 class="uppercase text-alpha">Latest from the blog</h4>
+            <h6 class="text-grey text-air">WE COVER EXPERT TIPS, LATEST TRENDS IN ALL THINGS DIGITAL</h6>
+       
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+      
+      <div class="row">
+        <ul class="clean-list clearfix timeline-loop padding-loop latest-form">
+          <li class="col-md-12"> <span class="bg-white" data-year="2015"></span>
+            <div class="row">
+              <div class="col-sm-6">
+                <div class="timeline-item">
+                  <h6 class="uppercase text-white" data-timeline-date="14 Mar"><a href="http://www.brandconn.com/blog/2017/03/an-era-comes-to-an-end-with-the-closure-of-dmoz-today/">An Era Comes To An End With The Closure of DMOZ Today!</a></h6>
+                  <div class="timeline-content">
+                    <div class="row">
+                      <div class="col-md-3 col-xs-3">
+                        <figure class="text-center"> <a href="http://www.brandconn.com/blog/2017/03/an-era-comes-to-an-end-with-the-closure-of-dmoz-today/"><img src="images/DMoz-closes-down.png" data-src="images/DMoz-closes-down.png" alt="DMoz closes down"></a></figure>
+                      </div>
+                      <div class="col-md-9 col-xs-9">
+                        <p>After 18 years, DMOZ Web Directory closes today on March 14th 2017 and with that an era in the field of SEO and Digital Marketing also comes to an end. DMOZ was one of the oldest and most trusted human edited open directories. 
+</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="col-md-12">
+            <div class="row">
+              <div class="col-sm-6  col-sm-offset-6">
+                <div class="timeline-item">
+                  <h6 class="uppercase text-white" data-timeline-date="15 May">Unforgetable moments from our staff</h6>
+                  <div class="timeline-content">
+                    <div class="row">
+                      <div class="col-md-3 col-sm-6 col-xs-3">
+                        <figure class="text-center"> <img src="images/blog-3.jpg" data-src="images/blog-3.jpg" alt="SEO team"> </figure>
+                      </div>
+                      <div class="col-md-3 col-sm-6 col-xs-3">
+                        <figure class="text-center"> <img src="images/blog-4.jpg" data-src="images/blog-4.jpg" alt="Staff"> </figure>
+                      </div>
+                      <div class="col-md-3 col-sm-6 col-xs-3">
+                        <figure class="text-center"> <img src="images/blog-5.jpg" data-src="images/blog-5.jpg" alt="Digital team"> </figure>
+                      </div>
+                      <div class="col-md-3 col-sm-6 col-xs-3">
+                        <figure class="text-center"> <img src="images/blog-6.jpg" data-src="images/blog-6.jpg" alt="online marketing team"> </figure>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="col-md-12">
+            <div class="row">
+              <div class="col-sm-6">
+                <div class="timeline-item">
+                  <h6 class="uppercase text-white" data-timeline-date="21 Feb"><a href="http://www.brandconn.com/blog/2017/02/the-saga-of-digital-marketing/">The Saga of Digital Marketing!</a></h6>
+                  <div class="timeline-content">
+                    <div class="row">
+                      <div class="col-md-3 col-xs-3">
+                        <figure class="text-center"> <a href="http://www.brandconn.com/blog/2017/02/the-saga-of-digital-marketing/"><img src="images/Search_Engine_Optimization.jpg" data-src="images/Search_Engine_Optimization.jpg" alt="Search Engine Optimization"></a> </figure>
+                      </div>
+                      <div class="col-md-9 col-xs-9">
+                        <p>Internet has indeed changed the lives of new age generation. The conventional things that were enriched in our lives have paved way for digital platforms. Earlier, there was a great difficulty in terms up of coping with the existing infrastructure. </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <div class="align-center uppercase"> <a href="http://www.brandconn.com/blog/" class="industryanchor"><span class="bg-white industryanchor" data-year="More"></span></a> </div>
+      </div>
+      <!-- /.row --> 
+      
+    </div>
+    <!-- /.container --> 
+  </section>
+  <!-- /.box -->
+  
+  <section id="contact" class="box">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="fancy-title text-center uppercase">
+            <h4 class="text-alpha">Contact us</h4>
+            <h6 class="text-grey text-air">LET US DISCUSS YOUR NEXT PROJECT OR PARTNERSHIP</h6>
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+      
+      <div class="row mapbg">
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <h4 class="no-margin">Brandconn Digital</h4>
+          <hr class="hr-10">
+          <!-- end widget title -->
+          <p>Interested to see how Brandconn can help you grow your online business?</p>
+<p>Please fill the form and one of our experts will call you back within 24 hours. Alternatively, you can contact us on the following email and phone numbers.</p>
+          <div class="big-contact">
+            <ul>
+              <li><i class="icon-261"></i> <span>Brandconn Digital Pvt Ltd , B-149, Sector-63, Noida, India</span></li>
+              <li><i class="icon-350"></i> <span>+91 120 4293692 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + 91 8750 799 799</span></li>
+              <li><a href="mailto:info@brandconn.com"><i class="icon-166"></i> <span>info@brandconn.com</span></a></li>
+            </ul>
+          </div>
+          
+          <!-- end footer contact --> 
+        </div>
+        
+        <!-- form -->
+        <div class="col-md-6 col-sm-6 col-xs-12">
+         <form style="visibility: visible; animation-name: fadeInRight;" class="quoteform wow fadeInRight animated" action="send-form.php" id="contactForm" name="EnqueryForm-Brandconn" method="post" enctype="multipart/form-data">
+ 
+          <input type="hidden" name="page_name" value="Home">
+           
+            <input type="text" id="name" name="name" placeholder="Name*" class="form-control" required>            
+            <input type="email" id="email" name="email" placeholder="Email*" class="form-control" required>
+            
+            <input type="text" id="phone" name="phone" placeholder="Phone number*" class="form-control" required>
+            <textarea id="message" class="form-control" name="message" placeholder="Message*" required></textarea>
+            <button class="button-md bg-alpha make-full" name="submit_now" type="submit">SUBMIT INFORMATION</button>
+          </form>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="space-x"></div>
+        </div>
+      </div>
+      <!-- /.row --> 
+    </div>
+    <!-- /.container --> 
+  </section>
+  <!-- /.box -->
+  
+  <footer class="main-footer">
+    <section class="footer-social bg-alpha">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <ul class="inline-list social-networks align-center text-white">
+              <li class="facebook-network"> <a href="https://www.facebook.com/brandconndigital" target="_blank" rel="nofollow"><i class="icon-182"></i></a> </li>
+              <li class="twitter-network"> <a href="https://twitter.com/brandconndg " target="_blank" rel="nofollow"><i class="icon-510"></i></a> </li>
+              <li class="linkedin-network"> <a href="https://www.linkedin.com/company/brandconn-digital-pvt-ltd  " target="_blank" rel="nofollow"><i class="icon-297"></i></a> </li>
+              <li class="googleplus-network"> <a href="https://plus.google.com/+Brandconndigital/posts " target="_blank" rel="nofollow"><i class="icon-244"></i></a> </li>
+              <li class="youtube-network"> <a href="https://www.youtube.com/c/Brandconndigital" target="_blank" rel="nofollow"><i class="icon-548"></i></a> </li>
+            </ul>
+          </div>
+        </div>
+        <!-- /.row --> 
+      </div>
+      <!-- /.container --> 
+    </section>
+    <!-- /.footer-social  -->
+
+<footer class="main-footer" style="background:#474747;">
+
+			<section class="footer-sidebar">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<aside class="main-sidebar row" data-masonry=".widget">
+								<div class="widget widget-text col-md-3 col-sm-6">
+									<br>
+									
+									<div class="widget-content-footer">
+										 <a href="index.html"><img alt="Brandconn Logo" src="images/brand_logo-small.png"> </a>
+                                        <p class="text-white">Connecting the dots between <br> you and your customers</p>
+									</div>
+								</div> <!-- /.widget-text -->
+								
+								<div class="widget widget-categories col-md-3 col-sm-6">
+									<h6 class="text-white uppercase">Company</h6>
+									
+									<div class="widget-content-footer">
+										<ul class="clean-list fancy-list">
+											<li><a href="company.html" class="text-white">Who we are</a><i class="icon-100 font--2x  text-white"></i></li>
+											<li><a href="services.html" class="text-white">What we do</a><i class="icon-100 font--2x  text-white"></i></li>
+											<li><a href="case-studies.html" class="text-white">See our Work</a><i class="icon-100 font--2x text-white"></i></li>
+											<li><a href="Job-openings.html" class="text-white">Working with us</a><i class="icon-100 font--2x text-white"></i></li>
+                                            <li><a href="http://www.brandconn.com/blog/" class="text-white">Read our Blog</a><i class="icon-100 font--2x  text-white"></i></li>
+                                            <li><a href="contact-us.html" class="text-white">Contact us</a><i class="icon-100 font--2x  text-white"></i></li>
+										</ul>
+									</div>
+								</div> <!-- /.widget-categories -->
+								
+								<div class="widget widget-text col-md-3 col-sm-6" >
+									<h6 class="text-white uppercase">Outsourcing</h6>
+									
+									<div class="widget-content-footer">
+								    <ul class="clean-list fancy-list">
+										<li><a href="hire-seo-experts.html" class="text-white">Hire SEO experts</a><i class="icon-100 font--2x  text-white"></i></li>
+									    <li><a href="hire-ppc-experts.html" class="text-white">Hire PPC experts</a><i class="icon-100 font--2x text-white"></i></li>
+										<li><a href="hire-content-writers.html" class="text-white">Hire content writers</a><i class="icon-100 font--2x text-white"></i></li>
+									    <li><a href="hire-web-developer.html" class="text-white">Hire web developers</a><i class="icon-100 font--2x  text-white"></i></li>
+                                        <li><a href="outsourcing-india.html" class="text-white">Why hire from us</a><i class="icon-100 font--2x  text-white"></i></li>
+                                          
+                                            
+										</ul>
+									</div>
+								</div> <!-- /.widget-text -->
+								
+								<div class="widget widget-text col-md-3 col-sm-6" >
+									<h6 class="text-white uppercase">Specialised SEO Services</h6>
+									
+									<div class="widget-content-footer">
+								    <ul class="clean-list fancy-list af">
+											
+                                            
+                                            <li><a href="outsource-seo.html"  class="text-white">Outsource SEO</a><i class="icon-100 font--2x  text-white"></i></li>
+											<li><a href="ecommerce-seo.html" class="text-white">Ecommerce SEO</a><i class="icon-100 font--2x  text-white"></i></li>
+											<li><a href="seo-for-small-business.html" class="text-white">Small business SEO</a><i class="icon-100 font--2x  text-white"></i></li>
+											<li><a href="seo-by-industry.html" class="text-white">SEO by Industry</a><i class="icon-100 font--2x  text-white"></i></li>
+                                            <li><a href="seo-by-technology.html" class="text-white">SEO by Technology</a><i class="icon-100 font--2x  text-white"></i></li>
+										</ul>
+									</div>
+								</div> <!-- /.widget-text -->
+							</aside>
+						</div>
+					</div> <!-- /.row -->
+					<div class="row">
+          <div class="col-md-12"><p class=" align-center text-center uppercase"> <span style="color:white">We are protected by &nbsp;&nbsp;   </span> <a href="http://www.dmca.com/Protection/Status.aspx?ID=2db5b4a7-7d60-4c19-b9ef-fe071ec58485" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="http://images.dmca.com/Badges/dmca_protected_sml_120l.png?ID=2db5b4a7-7d60-4c19-b9ef-fe071ec58485"  alt="DMCA.com Protection Status"  height="25px" /></a>   &nbsp;<a href="http://www.copyscape.com/"><img src="http://banners.copyscape.com/img/copyscape-banner-blue-200x25.png" width="200" height="25" border="0" alt="Protected by Copyscape" title="Protected by Copyscape Plagiarism Checker - Do not copy content from this page." /></a></p>
+              <a href="javascript:void(0)" class="scroll-top-link"><i class="fa fa-chevron-up"></i></a>
+          </div>
+        </div>
+				</div> <!-- /.container -->
+			</section> <!-- /.footer-menu -->
+
+			<section class="footer-copyright bg-light-grey" style="background: #3A3A3A">
+				<div class="container">
+                
+					<div class="row">
+						<div class="col-md-6 text-white">
+							<p class="copyright uppercase">
+								<span>© Brandconn Digital Pvt. Ltd. | <a href="http://www.brandconn.com/terms-of-use.html"><font color="silver">Terms of use</font></a> | <a href="http://www.brandconn.com/privacy-policy.html"><font color="silver">Privacy Policy</font></a> </span>
+								
+							</p>
+						</div>
+
+						<div class="col-md-6">
+						
+							<ul class="inline-list social-networks social-mini-footer text-grey align-right">									
+								<li class="facebook-network">
+									<a href="https://www.facebook.com/brandconndigital"><i class="icon-182"></i></a>
+								</li>
+								<li class="twitter-network">
+									<a href="https://twitter.com/brandconndg"><i class="icon-510"></i></a>
+								</li>
+								<li class="linkedin-network">
+									<a href="https://www.linkedin.com/company/brandconn-digital-pvt-ltd"><i class="icon-297"></i></a>
+								</li>
+                                <li class="googleplus-network">
+									<a href="https://plus.google.com/+Brandconndigital"><i class="icon-244"></i></a>
+								</li>
+								<li class="youtube-network">
+									<a href="https://www.youtube.com/c/Brandconndigital"><i class="icon-548"></i></a>
+								</li>
+							</ul>
+						</div>
+					</div> <!-- /.row -->
+				</div> <!-- /.container -->
+			</section> <!-- /.footer-copyright -->
+		</footer> <!-- /.main-footer --> 
+  <!-- /.main-footer --> 
+  
+</div>
+<!-- /#home -->
+
+</body>
+</html>
